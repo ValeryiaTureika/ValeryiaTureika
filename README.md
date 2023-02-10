@@ -3,7 +3,7 @@
 <h3 align="center">Я инженер по тестированию программного обеспечения </ h3>
 <h4>Вот, что я умею:</h4>
 <ul>
-  <li>Ручное тестирование веб-приложений, <a href="">проекты по курсу</a>;</li>
+  <li>Ручное тестирование веб-приложений, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkIntroductiontoTesting.md">проекты по курсу</a>;</li>
   <li>Курсовой проект к модулю, <a href="">"Ручное тестирование веб-приложений"</a>;</li>
   <li>Java для тестировщиков, <a href="">проекты по курсу</a>;</li>
   <li>Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), <a href="">проекты по курсу</a>;</li>
