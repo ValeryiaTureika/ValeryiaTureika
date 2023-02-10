@@ -5,7 +5,7 @@
 <ul>
   <li>Ручное тестирование веб-приложений, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkIntroductiontoTesting.md">проекты по курсу</a>;</li>
   <li>Курсовой проект к модулю, <a href="https://docs.google.com/document/d/1Qk26XTwTVrsj3qa2e4h92kNSOg_DbvyyByj35vNkpKs/edit?usp=sharing">"Ручное тестирование веб-приложений"</a>;</li>
-  <li>Java для тестировщиков, <a href="">проекты по курсу</a>;</li>
+  <li>Java для тестировщиков, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/JavaTesterHomework.md">проекты по курсу</a>;</li>
   <li>Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), <a href="">проекты по курсу</a>;</li>
   <li>Курсовой проект по модулю «Автоматизация тестирования», <a href="https://github.com/ValeryiaTureika/work">Автоматизация тестирования комплексного сервиса покупки тура, взаимодействующего с СУБД и API Банка</a>;</li>
   <li>JavaScript для тестировщиков, <a href="">проекты по курсу</a>;</li>
