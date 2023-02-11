@@ -15,7 +15,10 @@
   <li>Тестирование безопасности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkSecurityTesting.md">проекты по курсу</a>;</li>
   <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/ValeryiaTureika/diploma-qa">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a>;</li>
 </ul>
-
+<h3>Сертификаты Нетологии:</h3>
+<ul>
+ <li>Ручное тестирование веб-приложений <a href=""></a>;</li>
+  </ul>
 
 <!--
 **ValeryiaTureika/ValeryiaTureika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
