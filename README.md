@@ -12,8 +12,8 @@
   <li>Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkTestingOfWebInterfaces.md">проекты по курсу</a>;</li>
   <li>Мануальное тестирование мобильных приложений и автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso), <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/MobileAppTestingCourse.md">проекты по курсам</a>;</li>
   <li>Тестирование производительности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/PerformanceTestingCourse.md">проекты по курсу</a>;</li>
-  <li>Тестирование безопасности, <a href="">проекты по курсу</a>;</li>
-  <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/ValeryiaTureika/work">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a>;</li>
+  <li>Тестирование безопасности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkSecurityTesting.md">проекты по курсу</a>;</li>
+  <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/ValeryiaTureika/diploma-qa">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a>;</li>
 </ul>
 
 
