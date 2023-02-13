@@ -13,7 +13,7 @@
   <li>Мануальное тестирование мобильных приложений и автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso), <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/MobileAppTestingCourse.md">проекты по курсам</a>;</li>
   <li>Тестирование производительности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/PerformanceTestingCourse.md">проекты по курсу</a>;</li>
   <li>Тестирование безопасности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkSecurityTesting.md">проекты по курсу</a>;</li>
-  <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/ValeryiaTureika/diploma-qa">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a>;</li>
+  <li>Дипломный проект профессии Инженер по тестированию, <a href="https://github.com/ValeryiaTureika/diploma-qa">проведение ручного тестирования и автоматизация тестирования мобильного приложения «Мобильный хоспис»</a></li>
 </ul>
 <h3>Сертификаты Нетологии:</h3>
 <ul>
@@ -26,7 +26,7 @@
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(7).pdf">Тестирование мобильных приложений</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(8).pdf">Тестирование производительности</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(9).pdf">Тестирование безопасности</a>;</li>
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate.pdf">Свидетельство о прохождении обучения</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate.pdf">Свидетельство о прохождении обучения</a></li>
 </ul>
 <!--
 **ValeryiaTureika/ValeryiaTureika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
