@@ -17,7 +17,7 @@
 </ul>
 <h3>Сертификаты Нетологии:</h3>
 <ul>
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(1).pdf">Ручное тестирование веб-приложений</a>;</li
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(1).pdf">Ручное тестирование веб-приложений</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(2).pdf">Git — система контроля версий</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(3).pdf">Java для тестировщиков</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(4).pdf">Автоматизированное тестирование</a>;</li>
