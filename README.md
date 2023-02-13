@@ -9,7 +9,7 @@
   <li>Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkAutomatedTesting.md">проекты по курсу</a>;</li>
   <li>Курсовой проект по модулю «Автоматизация тестирования», <a href="https://github.com/ValeryiaTureika/work">Автоматизация тестирования комплексного сервиса покупки тура, взаимодействующего с СУБД и API Банка</a>;</li>
   <li>JavaScript для тестировщиков, <a href="https://github.com/ValeryiaTureika/bjs-2-homeworks">проекты по курсу</a>;</li>
-  <li>Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkTestingOfWebInterfaces.md">проекты по курсу</a>;</li>
+  <li>Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter, Cypress, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkTestingOfWebInterfaces.md">проекты по курсу</a>;</li>
   <li>Мануальное тестирование мобильных приложений и автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso), <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/MobileAppTestingCourse.md">проекты по курсам</a>;</li>
   <li>Тестирование производительности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/PerformanceTestingCourse.md">проекты по курсу</a>;</li>
   <li>Тестирование безопасности, <a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/HomeworkSecurityTesting.md">проекты по курсу</a>;</li>
