@@ -17,15 +17,15 @@
 </ul>
 <h3>Сертификаты Нетологии:</h3>
 <ul>
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(1).pdf">Ручное тестирование веб-приложений</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(2).pdf">Git — система контроля версий</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(3).pdf">Java для тестировщиков</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(4).pdf">Автоматизированное тестирование</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(5).pdf">Курсовая работа по итогам 4 модулей и введение в JavaScript</a> </li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(6).pdf">Автоматизация тестирования веб-интерфейсов</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(7).pdf">Тестирование мобильных приложений</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(8).pdf">Тестирование производительности</a>;</li>;
-  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(9).pdf">Тестирование безопасности</a>;</li>;
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(1).pdf">Ручное тестирование веб-приложений</a>;</li
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(2).pdf">Git — система контроля версий</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(3).pdf">Java для тестировщиков</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(4).pdf">Автоматизированное тестирование</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(5).pdf">Курсовая работа по итогам 4 модулей и введение в JavaScript</a> </li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(6).pdf">Автоматизация тестирования веб-интерфейсов</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(7).pdf">Тестирование мобильных приложений</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(8).pdf">Тестирование производительности</a>;</li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(9).pdf">Тестирование безопасности</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate.pdf">Свидетельство о прохождении обучения</a>;</li>
 </ul>
 <!--
