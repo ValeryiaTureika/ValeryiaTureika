@@ -22,6 +22,7 @@
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(3).pdf">Java для тестировщиков</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(4).pdf">Автоматизированное тестирование</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(5).pdf">Курсовая работа по итогам 4 модулей и введение в JavaScript</a> </li>
+   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/05156038c9e139a82caade565f960dc1.jpg">JavaScript для тестировщиков</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(6).pdf">Автоматизация тестирования веб-интерфейсов</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(7).pdf">Тестирование мобильных приложений</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(8).pdf">Тестирование производительности</a>;</li>
