@@ -8,3 +8,7 @@
 6. ["Инструменты тестирования для работы с документацией"](https://docs.google.com/document/d/1d0qE6FaeVlK1tBqdGi95lwWLY0NxaDm1Y4ujfByNi44/edit#),
 7. ["Инструменты тестирования. Клиент-сервер"](https://docs.google.com/document/d/1ZWCUYQLZ2JLwkdHhrvisJber8DuAWETLIHc8YssbiQU/edit),
 8. ["Жизненный цикл разработки ПО. Гибкие методологии разработки ПО"](https://docs.google.com/document/d/1EiwtvX-jwZTPDlyL72rQH_TBn2lNSHriJG1zdoIqWXQ/edit)
+9. ["Terminal linux"](https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/Terminal%20linux.md)
+10. ["Git"](https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/Git.md)
+11. ["SQL"](https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/SQL.md)
+12. ["Postman"](https://github.com/ValeryiaTureika/ValeryiaTureika/blob/main/Postman.md)
