@@ -28,6 +28,8 @@
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(8).pdf">Тестирование производительности</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(9).pdf">Тестирование безопасности</a>;</li>
   <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate.pdf">Свидетельство о прохождении обучения</a></li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(10).jpg">Диплом о профессиональной переподготовке</a></li>
+  <li><a href="https://github.com/ValeryiaTureika/ValeryiaTureika/blob/master/certificate%20(11).jpg">Приложение к диплому о профессиональной переподготовке</a></li>
 </ul>
 <!--
 **ValeryiaTureika/ValeryiaTureika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
